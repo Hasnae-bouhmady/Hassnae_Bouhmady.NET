@@ -16313,6 +16313,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\hasna\\Documents\\Hassnae_Bouhmady.NET\\ContosoUniversity\\Pages\\Courses\\Details.cshtml",
+      "TargetPath": "Pages\\Courses\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\hasna\\Documents\\Hassnae_Bouhmady.NET\\ContosoUniversity\\Pages\\_ViewImports.cshtml",
       "TargetPath": "Pages\\_ViewImports.cshtml",
       "FileKind": "mvc"
@@ -16330,6 +16335,11 @@
     {
       "FilePath": "c:\\Users\\hasna\\Documents\\Hassnae_Bouhmady.NET\\ContosoUniversity\\Pages\\Privacy.cshtml",
       "TargetPath": "Pages\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\hasna\\Documents\\Hassnae_Bouhmady.NET\\ContosoUniversity\\Pages\\Courses\\Edit.cshtml",
+      "TargetPath": "Pages\\Courses\\Edit.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -16353,6 +16363,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\hasna\\Documents\\Hassnae_Bouhmady.NET\\ContosoUniversity\\Pages\\Courses\\Create.cshtml",
+      "TargetPath": "Pages\\Courses\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\hasna\\Documents\\Hassnae_Bouhmady.NET\\ContosoUniversity\\Pages\\Error.cshtml",
       "TargetPath": "Pages\\Error.cshtml",
       "FileKind": "mvc"
@@ -16360,6 +16375,16 @@
     {
       "FilePath": "c:\\Users\\hasna\\Documents\\Hassnae_Bouhmady.NET\\ContosoUniversity\\Pages\\About.cshtml",
       "TargetPath": "Pages\\About.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\hasna\\Documents\\Hassnae_Bouhmady.NET\\ContosoUniversity\\Pages\\Courses\\Index.cshtml",
+      "TargetPath": "Pages\\Courses\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\hasna\\Documents\\Hassnae_Bouhmady.NET\\ContosoUniversity\\Pages\\Courses\\Delete.cshtml",
+      "TargetPath": "Pages\\Courses\\Delete.cshtml",
       "FileKind": "mvc"
     }
   ],
