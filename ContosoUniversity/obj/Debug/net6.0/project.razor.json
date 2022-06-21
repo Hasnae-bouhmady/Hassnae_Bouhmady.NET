@@ -16328,6 +16328,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\hasna\\Documents\\Hassnae_Bouhmady.NET\\ContosoUniversity\\Pages\\Departments\\Delete.cshtml",
+      "TargetPath": "Pages\\Departments\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\hasna\\Documents\\Hassnae_Bouhmady.NET\\ContosoUniversity\\Pages\\Students\\Delete.cshtml",
       "TargetPath": "Pages\\Students\\Delete.cshtml",
       "FileKind": "mvc"
@@ -16383,8 +16388,18 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\hasna\\Documents\\Hassnae_Bouhmady.NET\\ContosoUniversity\\Pages\\Departments\\Details.cshtml",
+      "TargetPath": "Pages\\Departments\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\hasna\\Documents\\Hassnae_Bouhmady.NET\\ContosoUniversity\\Pages\\About.cshtml",
       "TargetPath": "Pages\\About.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\hasna\\Documents\\Hassnae_Bouhmady.NET\\ContosoUniversity\\Pages\\Departments\\Edit.cshtml",
+      "TargetPath": "Pages\\Departments\\Edit.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -16395,6 +16410,11 @@
     {
       "FilePath": "c:\\Users\\hasna\\Documents\\Hassnae_Bouhmady.NET\\ContosoUniversity\\Pages\\Courses\\Index.cshtml",
       "TargetPath": "Pages\\Courses\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\hasna\\Documents\\Hassnae_Bouhmady.NET\\ContosoUniversity\\Pages\\Departments\\Create.cshtml",
+      "TargetPath": "Pages\\Departments\\Create.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -16410,6 +16430,11 @@
     {
       "FilePath": "c:\\Users\\hasna\\Documents\\Hassnae_Bouhmady.NET\\ContosoUniversity\\Pages\\Instructors\\Details.cshtml",
       "TargetPath": "Pages\\Instructors\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\hasna\\Documents\\Hassnae_Bouhmady.NET\\ContosoUniversity\\Pages\\Departments\\Index.cshtml",
+      "TargetPath": "Pages\\Departments\\Index.cshtml",
       "FileKind": "mvc"
     }
   ],
