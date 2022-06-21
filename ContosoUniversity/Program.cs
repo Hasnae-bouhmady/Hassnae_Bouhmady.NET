@@ -21,3 +21,23 @@ else
     app.UseDeveloperExceptionPage();
     app.UseMigrationsEndPoint();
 }
+
+using (var scope = app.Services.CreateScope())
+{
+    var services = scope.ServiceProvider;
+
+    var context = services.GetRequiredService<SchoolContext>();
+    context.Database.EnsureCreated();
+    // DbInitializer.Initialize(context);
+}
+
+app.UseHttpsRedirection();
+app.UseStaticFiles();
+
+app.UseRouting();
+
+app.UseAuthorization();
+
+app.MapRazorPages();
+
+app.Run();
